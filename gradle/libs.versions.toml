@@ -21,4 +21,5 @@ constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayo
 android-application = { id = "com.android.application", version.ref = "agp" }
 
 #Bu proje Onur Caglar tarafindan yazilmistir...
+#This project was written by Onur Caglar
 
